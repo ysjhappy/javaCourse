@@ -1,3 +1,5 @@
+package zuoye20250211;
+
 public class Student {
     // 学员id
     private int id;
