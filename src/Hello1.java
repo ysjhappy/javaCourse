@@ -1,6 +1,6 @@
 public class Hello1 {
     /**
-     * 文档注释
+     * 文档注释1
      * @param args
      */
     public static void main(String[] args) {
